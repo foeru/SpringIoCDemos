@@ -1,6 +1,0 @@
-package com.foeru.ioc.containeroverview.dao.jpa;
-
-public interface ItemDao {
-    void saveItem(String item);
-    String getItem(String itemId);
-}
