@@ -13,3 +13,4 @@ target/
 *.iws
 *.iml
 *.ipr
+.DS_Store
