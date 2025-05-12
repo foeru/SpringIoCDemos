@@ -1,0 +1,5 @@
+package com.foeru.ioc.containeroverview.dao.jpa;
+
+public class JpaItemDao {
+
+}

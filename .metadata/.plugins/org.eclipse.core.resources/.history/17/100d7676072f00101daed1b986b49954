@@ -1,0 +1,5 @@
+package com.foeru.ioc.containeroverview.config;
+
+public class AppConfig {
+
+}
